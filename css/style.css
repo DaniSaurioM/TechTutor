@@ -42,6 +42,13 @@
   box-sizing: border-box;
 }
 
+.logo-img {
+  width: 100px; /* Ajusta el ancho del logo según tus necesidades */
+  vertical-align: middle;
+   /* Ajusta el margen derecho según tus necesidades */
+}
+
+
 html {
   font-family: sans-serif;
   line-height: 1.15;
