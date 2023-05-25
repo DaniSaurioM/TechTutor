@@ -14,6 +14,13 @@
 }
 
 
+    .custom-img {
+        max-width: 50%;
+        height: auto;
+    }
+
+
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
